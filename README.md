@@ -1,2 +1,6 @@
-# -Caesar-cipher-decryption
- Caesar Cipher Decryption Program From C
+# Caesar cipher decryption
+
+**Compile**
+`gcc test.c -o test.exe`
+
+---
